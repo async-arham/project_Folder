@@ -13,3 +13,6 @@ All data is stored in `account.dat` with a clean, colored console interface.
 
 ## Run
 Compile and run on Windows. The program auto-creates `account.dat`.
+
+## Author
+Arham Hussain.
